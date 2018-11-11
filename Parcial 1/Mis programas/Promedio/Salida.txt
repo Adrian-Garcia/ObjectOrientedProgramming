@@ -1,0 +1,13 @@
+Adrian
+Porcentaje		Calificacion 
+20	t		100
+30			95
+50			100
+		 Nota: 98.5
+
+
+Porcentaje		Calificacion 
+30			50
+40			100
+30			100
+		 Nota: 85

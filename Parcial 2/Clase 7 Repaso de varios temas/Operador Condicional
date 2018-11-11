@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main () {
+//	|Operador condicional|
+	double dCalif;
+	cin >> dCalif;
+//							|Parte verdadera|		|Parte falsa|
+	cout << ((dCalif >= 70)?"Pasaste la materia":"No pasaste la materia");
+	
+	return 0;
+}
